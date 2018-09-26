@@ -1,5 +1,5 @@
+# class Node
 class Node
-
   attr_accessor :value,
                 :left,
                 :right,
